@@ -1,5 +1,7 @@
 ### BEMA RAW SCORING ###
 
+## To be run in RStudio ##
+
 # After filling in steps 1-3, highlight this entire page and press "run." Once run,
 # the global environment will have a data set "finaldata" with each student's raw pre and 
 # post test score and Normalized Change. The console window will give the average pre and 
