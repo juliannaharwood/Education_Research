@@ -1,5 +1,7 @@
 ### BEMA SCORING ###
 
+## To be run in RStudio ##
+
 # After filling in steps 1-3, highlight this entire page and press "run." Once run,
 # the global environment will have a data set "finaldata" with each student's pre and 
 # post test score according to the special scoring rules and the console window will give 
